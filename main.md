@@ -166,11 +166,11 @@ NOR:
 
 ### CPU
 
-![2](file:///Users/fang/Desktop/%E5%A4%A7%E4%B8%89%E4%B8%8A%E5%AD%A6%E4%B9%A0/%E5%B5%8C%E5%85%A5%E5%BC%8F/%E5%A4%8D%E4%B9%A0%E9%87%8D%E7%82%B9/img/2.png?lastModify=1577432376)
+<img src="img/1.png" style="zoom:50%;" />
 
 ### 体系结构
 
-![img](file:///Users/fang/Desktop/%E5%A4%A7%E4%B8%89%E4%B8%8A%E5%AD%A6%E4%B9%A0/%E5%B5%8C%E5%85%A5%E5%BC%8F/%E5%A4%8D%E4%B9%A0%E9%87%8D%E7%82%B9/img/1.png?lastModify=1577432376)
+<img src="img/2.png" style="zoom:50%;" />
 
 ## 19. 从应用上讲，**Linux**的主要组成部分( 即 **Linux**的基本操作系统结构)
 
@@ -359,7 +359,9 @@ mount  -t  nfs 　-o nolock　192.168.123.118:/arm2410s  /mnt
 
 ## 46. 固态存储设备的典型空间分配结构
 
-<img src="/Users/fang/Desktop/大三上学习/嵌入式/复习重点/img/3.png" style="zoom:50%;" />
+<img src="img/3.png" style="zoom:50%;" />
+
+
 
 ## 47. BootLoader的操作模式，哪种面向用户?哪种用于烧写 内核 和根文件系统?
 
