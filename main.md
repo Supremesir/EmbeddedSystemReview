@@ -191,6 +191,8 @@ SDR -- DDR -- DDR2 -- DDR3 -- DDR4
 
 DDR200 MHz (100 * 2) -- PC1600 (100 * r * 2 * 8)
 
+DDR内存带宽=时钟频率\*2\*内存位宽
+
 ## 14. NOR FLASH 和 NAND FLASH 的特点
 
 ROM:
@@ -263,6 +265,13 @@ V8: 是一个真正意义上的64位，同时这个64位的架构当中加入了
 ## 22. MTD 的功能
 
 Memory Technology Device，存储技术设备
+
+MTD是Flash的一种管理方法，将Flash划分成几个分区，便于管理。
+
+**MTD的作用**
+
++ 对Flash构建了分区表，从而能够启动linux系统
++ nand命令可以使用宏参数，例如“nand read.jffs2 0x30007FC0 kernel;”命令中的kernel，kernel参数代表了内核分区的加载地址和大小。
 
 ## 23. 基于FLASH 的文件系统类型，基于RAM的文件系统类型
 
