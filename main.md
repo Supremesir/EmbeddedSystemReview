@@ -334,6 +334,8 @@ MTD是Flash的一种管理方法，将Flash划分成几个分区，便于管理�
 target :  dependency_files    #依赖关系
 <TAB>  command              #命令
 ```
+<img src="img/6.png" style="zoom:40%;" />
+
 
 ## 30. **Make**工具的使用
 
