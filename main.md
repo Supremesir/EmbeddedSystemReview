@@ -846,7 +846,7 @@ IP:端口，即 IP 与端口的组合
 
 ## 2. 嵌入式系统的概念及组成结构（图）
 
-<img src="/Users/fang/Desktop/大三上学习/嵌入式/EmbeddedSystemReview/img/4.png" style="zoom:50%;" />
+<img src="img/4.png" style="zoom:50%;" />
 
 ## 3. 嵌入式系统的应用
 
