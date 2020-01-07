@@ -750,6 +750,8 @@ slots
 
 无数据类型
 
+字段是无类型的
+
 ## 82. SQLite3的命令
 
 Linux安装软件的步骤：
@@ -823,7 +825,7 @@ IP:端口，即 IP 与端口的组合
 #include <sys/types.h>
 #include <socket.h>
 ```
-## 92. send和 recv函数
+## 92. send和 recv0函数
 
 用于 TCP
 
